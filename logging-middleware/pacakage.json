@@ -1,0 +1,10 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "AffordMed Logging Middleware by Shivanshu Agarwal (Roll No: 2219662, GitHub: Summation1)",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {},
+  "author": "Shivanshu Agarwal",
+  "license": "ISC"
+}
